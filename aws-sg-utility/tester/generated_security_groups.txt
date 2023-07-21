@@ -1,0 +1,3 @@
+sg-0622b055f68bea726,us-east-1
+sg-058448922c2585b29,us-west-2
+sg-0a425062d84bbed2d,ap-south-1
